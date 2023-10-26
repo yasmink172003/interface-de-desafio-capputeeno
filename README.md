@@ -1,3 +1,5 @@
+
+Resolvendo DESAFIO de VAGA FRONTEND com React, Next JS, Typescript e GraphQL- Curso do Canal Fernanda-Kipper.
 # Capputeeno
 
 Welcome! This repository contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
