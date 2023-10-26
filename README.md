@@ -1,6 +1,6 @@
 
 Resolvendo DESAFIO de VAGA FRONTEND com React, Next JS, Typescript e GraphQL- Curso do Canal Fernanda-Kipper.
-# Capputeeno![Uploading prototype.png…]()
+# Capputeeno
 
 
 
